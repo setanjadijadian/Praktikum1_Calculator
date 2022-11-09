@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Praktikum1</string>
+    <string name="Tinggi">tinggi</string>
+    <string name="Lebar">lebar</string>
+    <string name="Panjang">Panjang</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
 </resources>
