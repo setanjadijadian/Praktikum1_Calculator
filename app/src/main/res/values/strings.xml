@@ -5,4 +5,11 @@
     <string name="Panjang">Panjang</string>
     <string name="calculate">calculate</string>
     <string name="result">result</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">nama Belakang</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="biodata">Biodata</string>
+    <string name="bio_text">BIOGRAFI</string>
 </resources>
